@@ -1,5 +1,5 @@
-"# p0rtf0li0" 
+"# portfolio" 
 
-sauce: CHATGPT, youtube
- 
-copy and paste in your main remote workspace
+sauce: [youtube](https://www.youtube.com/watch?v=OPaLnMw2i_0&t=984s&ab_channel=JavaScriptMastery)ry
+chatgpt
+copy and paste 
